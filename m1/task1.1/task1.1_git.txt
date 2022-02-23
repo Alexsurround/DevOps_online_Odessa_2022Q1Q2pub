@@ -1,0 +1,25 @@
+9922cc3 HEAD@{0}: pull origin main: Fast-forward
+0d4d0dd HEAD@{1}: commit: task1.1 Readme.md
+4c86236 HEAD@{2}: pull origin main: Fast-forward
+d01040f HEAD@{3}: pull origin main: Fast-forward
+dc669dd HEAD@{4}: merge develop: Merge made by the 'ort' strategy.
+ea9c7bf HEAD@{5}: commit: task1 readmetxt.v1.1
+9d8816d HEAD@{6}: checkout: moving from develop to main
+036c27a HEAD@{7}: merge images: Merge made by the 'ort' strategy.
+eb31be3 HEAD@{8}: checkout: moving from images to develop
+5fbae0b HEAD@{9}: checkout: moving from develop to images
+eb31be3 HEAD@{10}: merge styles: Fast-forward
+869b489 HEAD@{11}: checkout: moving from styles to develop
+eb31be3 HEAD@{12}: checkout: moving from images to styles
+5fbae0b HEAD@{13}: checkout: moving from styles to images
+eb31be3 HEAD@{14}: commit: task1 styles
+869b489 HEAD@{15}: checkout: moving from develop to styles
+869b489 HEAD@{16}: checkout: moving from images to develop
+5fbae0b HEAD@{17}: commit: task1 images1.1
+e812e26 HEAD@{18}: commit: task1 images
+9d8816d HEAD@{19}: checkout: moving from develop to images
+869b489 HEAD@{20}: commit: task1 index.html
+855351a HEAD@{21}: checkout: moving from main to develop
+9d8816d HEAD@{22}: commit: task1 index.html
+855351a HEAD@{23}: commit: task1 readme.txt
+5e8c821 HEAD@{24}: clone: from https://github.com/Alexsurround/DevOps_online_Odessa_2022Q1Q2pub.git
